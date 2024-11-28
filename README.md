@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Supun</h1>
 <h3 align="center">A passionate web developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supunsynotec" alt="supunsynotec" /></a> </p>
-
-- 🌱 I’m currently learning **Laravel**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supuncharuka" alt="supuncharuka" /></a> </p>
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **supun.synotec@gmail.com**
+- 📫 How to reach me **supuncharuka.de@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
